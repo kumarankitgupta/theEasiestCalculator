@@ -1,7 +1,6 @@
 body{
     margin: 0%;
-    background: url(images/bg2.jpg);
-    background-repeat: repeat
+    background-color:#DFFFD8;
 }
 .text{
     font-family: 'Sansita Swashed', cursive;
